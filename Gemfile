@@ -10,7 +10,7 @@ end
 gem 'jwt'
 gem 'haml-rails', '~> 1.0'
 gem 'devise', '~> 4.5.0'
-gem 'paperclip', '~> 5.0.0'
+gem 'paperclip', '~> 5.2.0'
 gem 'cancancan', '~> 2.0'
 gem 'rails-i18n'
 gem 'pry-rails'
